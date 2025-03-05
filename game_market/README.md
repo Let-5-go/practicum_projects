@@ -15,3 +15,6 @@
   <li>User_Score — оценка пользователей (максимум 10)</li>
   <li>Rating — рейтинг от организации ESRB (англ. Entertainment Software Rating Board). Эта ассоциация определяет рейтинг компьютерных игр и присваивает им подходящую возрастную категорию.</li>
 </ul>
+
+## Используемые библиотеки 
+pandas, matplotlib.pyplot, scipy.stats, seaborn.
