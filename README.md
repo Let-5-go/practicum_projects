@@ -6,6 +6,7 @@
 |[Событийная аналитика и анализ результатов A/A/B теста стартапа по продаже продуктов](https://github.com/Let-5-go/practicum_projects/tree/main/food_store)|Нужно разобраться, как ведут себя пользователи мобильного приложения, а также проанализировать результаты A/A/B теста.|pandas, matplotlib.pyplot, scipy.stats, plotly.express, numpy
 |[Сегментация и анализ клиентов интернет-магазина «Пока все ещё тут»](https://github.com/Let-5-go/practicum_projects/tree/main/e-commerce)|Сегментировать пользователей и, исходя из анализа сегментов покупателей, разработать рекомендации о том, каким клиентам и когда следует рассылать рекламные предложения о каких категориях товаров.|pandas, matplotlib.pyplot, scipy, numpy, sklearn, statsmodels.
 |[Т-Банк: использование инструментов инвестирования](https://github.com/Let-5-go/practicum_projects/tree/main/t_bank)|Кейс для продуктовых аналитиков для прохождения на стажировку Т-Банка Аналитика (лето 2025). Анализ данных сервиса Т-Инвестиции и выдвижение продуктовых гипотез.|pandas, matplotlib.pyplot, numpy.
+|[Ак барс банк: обучение модели для скринингового анализа](https://github.com/Let-5-go/practicum_projects/tree/main/credit_score)|Тестовое задание для прохождения в Ак барс банк на вакансию риск-менеджера (ML моделирование).|pandas, matplotlib.pyplot, numpy, seaborn, sklearn, imblearn, catboost, xgboost.
 ## Мои дашборды
 |Название дашборда|Описание|Ссылка|
 |-----------|-----------|-----------|
